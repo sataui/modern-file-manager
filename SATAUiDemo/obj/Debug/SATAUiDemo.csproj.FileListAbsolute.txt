@@ -1,0 +1,12 @@
+C:\Users\salar\source\repos\SATAUiDemo\SATAUiDemo\bin\Debug\SATAUiDemo.exe.config
+C:\Users\salar\source\repos\SATAUiDemo\SATAUiDemo\bin\Debug\SATAUiDemo.exe
+C:\Users\salar\source\repos\SATAUiDemo\SATAUiDemo\bin\Debug\SATAUiDemo.pdb
+C:\Users\salar\source\repos\SATAUiDemo\SATAUiDemo\bin\Debug\SATAUiFramework.dll
+C:\Users\salar\source\repos\SATAUiDemo\SATAUiDemo\obj\Debug\SATAUiDemo.csproj.AssemblyReference.cache
+C:\Users\salar\source\repos\SATAUiDemo\SATAUiDemo\obj\Debug\SATAUiDemo.Form1.resources
+C:\Users\salar\source\repos\SATAUiDemo\SATAUiDemo\obj\Debug\SATAUiDemo.Properties.Resources.resources
+C:\Users\salar\source\repos\SATAUiDemo\SATAUiDemo\obj\Debug\SATAUiDemo.csproj.GenerateResource.cache
+C:\Users\salar\source\repos\SATAUiDemo\SATAUiDemo\obj\Debug\SATAUiDemo.csproj.CoreCompileInputs.cache
+C:\Users\salar\source\repos\SATAUiDemo\SATAUiDemo\obj\Debug\SATAUiDemo.csproj.Up2Date
+C:\Users\salar\source\repos\SATAUiDemo\SATAUiDemo\obj\Debug\SATAUiDemo.exe
+C:\Users\salar\source\repos\SATAUiDemo\SATAUiDemo\obj\Debug\SATAUiDemo.pdb
